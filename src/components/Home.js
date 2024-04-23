@@ -13,7 +13,7 @@ function Home() {
         {name} is a Web Developer from {city}
       </h1>
   </div>
-  )
+  );
 }
 
 export default Home;
